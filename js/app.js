@@ -10,7 +10,7 @@ var qr = window.qr = new QRious({
 });
 
 function generatepwd () {
-    // What to do
+    alert("Implemented soonish...");
 } 
 
 const generateqr = v => {
