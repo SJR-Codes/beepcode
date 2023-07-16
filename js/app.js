@@ -5,7 +5,7 @@ let qrcanvas = document.getElementById("qr");
 
 var qr = window.qr = new QRious({
     element: qrcanvas,
-    size: 350,
+    size: 250,
     value: ''
 });
 
