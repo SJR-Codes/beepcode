@@ -7,4 +7,4 @@ Kudos to:
 
 https://github.com/neocotic/qrious
 
-https://svelte.dev/
+https://realfavicongenerator.net/
